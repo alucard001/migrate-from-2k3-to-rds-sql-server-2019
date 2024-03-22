@@ -21,13 +21,17 @@ Hope that helps.
 ![image](https://github.com/alucard001/migrate-from-2k3-to-rds-sql-server-2019/assets/1968244/8317ac7f-6399-40b2-9300-879cbc9dc3ec)
 
 1. Select which table(s) you would like to migrate
+   
 ![image](https://github.com/alucard001/migrate-from-2k3-to-rds-sql-server-2019/assets/1968244/e851b49a-12eb-4f5e-b23d-ac01a27fb434)
 
 1. Map the column
+   
 ![image](https://github.com/alucard001/migrate-from-2k3-to-rds-sql-server-2019/assets/1968244/d4792f3a-5f03-45b3-a655-28e8798ea371)
 
 1. Select "Run immediately"
+   
 ![image](https://github.com/alucard001/migrate-from-2k3-to-rds-sql-server-2019/assets/1968244/8f2636d4-7e35-4dd0-8148-2b54ce5572be)
 
 1. The process will start
+   
 ![image](https://github.com/alucard001/migrate-from-2k3-to-rds-sql-server-2019/assets/1968244/f7fa17b1-c6fc-4f3f-b475-cfddbd7c5a31)
